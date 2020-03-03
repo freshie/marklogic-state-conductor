@@ -173,8 +173,9 @@ ___
 ## Roadmap
 
 * [Time based flow context](https://github.com/aclavio/marklogic-state-conductor/issues/1)
-* Named event based state pausing and resuming
+* [Named event based state pausing and resuming](https://github.com/aclavio/marklogic-state-conductor/issues/6)
 * Wait state
+* [corb2 Driver (DHS support)](https://github.com/aclavio/marklogic-state-conductor/issues/5)
 * Unit Test coverage
 * Batch support
 * Rest Services
