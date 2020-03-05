@@ -172,7 +172,7 @@ Fork the project [on GitHub](https://github.com/aclavio/marklogic-state-conducto
   ```sh
   $ git clone git@github.com:username/markLogic-state-conductor-from-source.git
   $ cd markLogic-state-conductor-from-source
-  $ git remote add upstream git://github.com/aclavio/marklogic-state-conductor/.git
+  $ git remote add upstream git://github.com/aclavio/marklogic-state-conductor.git
   ```
 
 **Important:** Please open an issue in the [issue tracker][] and get your proposed changes pre-approved by at least one of the project maintainers before you start coding. Nothing is more frustrating than seeing your hard work go to waste because your vision does not align with that of the project maintainers.
