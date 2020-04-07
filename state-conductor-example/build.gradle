@@ -22,6 +22,9 @@ dependencies {
     mlBundle "com.marklogic:marklogic-state-conductor-cpf:${version}"
   }
   mlBundle "com.marklogic:marklogic-unit-test-modules:1.0.0"
+  testCompile "com.marklogic:ml-junit:3.0.0"
+  testCompile "com.marklogic:ml-javaclient-util:3.14.0"
   testCompile "io.rest-assured:rest-assured:4.3.0"
   testCompile "org.assertj:assertj-core:4.3.0"
+
 }
